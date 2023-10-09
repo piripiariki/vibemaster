@@ -1,2 +1,3 @@
 # vibemaster
-algorithmic playlist creator
+algorithmic playlist creator.
+
